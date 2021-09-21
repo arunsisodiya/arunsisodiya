@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Kyverno — A Kubernetes native policy manager (Policy as Code)"
 ---
 
