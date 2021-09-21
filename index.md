@@ -1,4 +1,3 @@
-### Hi there 👋
 
 - 🔭 I’m currently working at [mimacom](https://www.mimacom.com/en/) as `Cloud Automation Engineer`
 - 🌱 I’m currently learning Cloud related stuff and automations
