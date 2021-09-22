@@ -82,7 +82,7 @@ If you want to install the kyverno without Helm directly using manifest, we can 
 kubectl create -f https://raw.githubusercontent.com/kyverno/kyverno/main/definitions/release/install.yaml
 ```
 
-![Kyverno Install](/assets/images/kyverno-install.gif)
+![Kyverno Install](/ArunSisodiya/assets/images/kyverno-install.gif)
 
 ## Kyverno Operations
 
@@ -258,7 +258,7 @@ This policy will generate the respective resources whenever a new namespace will
 
 Now we will see the kyverno in action. To check whether kyverno is installed properly, check all the resources in the `kyverno` namespace -
 
-![Kyverno Install Verification](/assets/images/kyverno-install-verification.png)
+![Kyverno Install Verification](/ArunSisodiya/assets/images/kyverno-install-verification.png)
 
 ### Applying Policies
 
@@ -334,7 +334,7 @@ spec:
           namespace: "?*"
 ```
 
-![Policy Apply](/assets/images/kyverno-apply-policy.gif)
+![Policy Apply](/ArunSisodiya/assets/images/kyverno-apply-policy.gif)
 
 ### Resource Creation Testing
 
@@ -342,13 +342,13 @@ Once the policies are applied to the cluster, we can proceed with the testing of
 
 Since we have applied the policies to ensure that no resource can be created in the default namespace, so we will try to create a pod in the default namespace.
 
-![Create Resource](/assets/images/kyverno-create-pod.gif)
+![Create Resource](/ArunSisodiya/assets/images/kyverno-create-pod.gif)
 
 As the above error provides the information that we are not allowed to create the resource in the default namespace.
 
 Now we will try to create the same pod in the `kyverno` namespace and see if that is working.
 
-![Create Resource namespace](/assets/images/kyverno-create-pod-namespace.gif)
+![Create Resource namespace](/ArunSisodiya/assets/images/kyverno-create-pod-namespace.gif)
 
 As we can see that we can create the pod in any namespace other than the default one.
 
