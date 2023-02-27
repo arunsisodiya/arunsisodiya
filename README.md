@@ -1,6 +1,7 @@
+<a href="https://app.daily.dev/sisodaru"><img src="https://api.daily.dev/devcards/aff8816f5aa945d6af7060763b5a60b4.png?r=0jz" width="400" alt="Arun Singh Sisodiya's Dev Card"/></a>
 ### Hi there 👋
 
-- 🔭 I’m currently working at [mimacom](https://www.mimacom.com/en/) as `Cloud Automation Engineer`
+- 🔭 I’m currently working at [Mercedes-Benz.io](http://mercedes-benz.io/) as `CloudOps Engineer`
 - 🌱 I’m currently learning Cloud related stuff and automations
 - 💬 We can get in touch about anything related to `CloudOps`, `Automation` and any new technologies
 - 📫 You can always reach me: [Medium](https://arun-sisodiya.medium.com/), [Twitter](https://twitter.com/arunsingh1801) & [LinkedIn](https://www.linkedin.com/in/arunsinghsisodiya/)
